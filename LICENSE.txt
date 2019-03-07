@@ -1,0 +1,13 @@
+## Copyright and Licensing
+
+Copyright 2019 Stewart Weiss
+
+Material based on work by Darci Burge and Stoney Jackson:
+[GitHub Workflow Activity](https://github.com/foss2serve/github-workflow-activity)
+
+and on revisions by Joanna Klukowska:
+[GitHub Workflow Activity](https://github.com/joannakl/ossd_materials/tree/master/activities/github-workflow-activity)
+
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ .
