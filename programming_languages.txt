@@ -1,0 +1,5 @@
+**Languages our group knows very well: **
+
+* C++
+* Javascript
+
